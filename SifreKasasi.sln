@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreKasasi", "SifreKasasi\SifreKasasi.csproj", "{5ED6DE1F-66C2-4200-BE29-FA80FB0C9E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreKasasi.API", "SifreKasasi.API\SifreKasasi.API.csproj", "{ADBDFEEE-8947-4C28-887B-948D9615AA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreKasasi.Data", "SifreKasasi.Data\SifreKasasi.Data.csproj", "{5A678F31-569F-4C76-A174-B0F651C74A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED6DE1F-66C2-4200-BE29-FA80FB0C9E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED6DE1F-66C2-4200-BE29-FA80FB0C9E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED6DE1F-66C2-4200-BE29-FA80FB0C9E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED6DE1F-66C2-4200-BE29-FA80FB0C9E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBDFEEE-8947-4C28-887B-948D9615AA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBDFEEE-8947-4C28-887B-948D9615AA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBDFEEE-8947-4C28-887B-948D9615AA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBDFEEE-8947-4C28-887B-948D9615AA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A678F31-569F-4C76-A174-B0F651C74A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A678F31-569F-4C76-A174-B0F651C74A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A678F31-569F-4C76-A174-B0F651C74A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A678F31-569F-4C76-A174-B0F651C74A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
